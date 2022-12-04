@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Everything is a Computer"
-date:   2021-08-01 07:47:02 -0400
+date:   2022-08-01 07:47:00 -0400
 categories: unconventional computing
 ---
 
